@@ -22,4 +22,5 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-var theFunk
+var theFunk=funkyFunction();
+console.log()
