@@ -22,4 +22,5 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-return(funkyFunction())
+theFunk=funkyFunction()
+retrun(theFunk)
